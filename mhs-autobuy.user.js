@@ -6,8 +6,8 @@
 // @license      MIT
 // @author       和川 & ChatGPT‑Assist
 // @match        *://www.mihuashi.com/stalls/*
-// @updateURL    https://raw.githubusercontent.com/y12rf/mhs-autobuy/refs/heads/main/mhs-autobuy.meta.js
-// @downloadURL  https://raw.githubusercontent.com/y12rf/mhs-autobuy/refs/heads/main/mhs_autobuy.user.js
+// @updateURL    https://raw.githubusercontent.com/y12rf/mhs-autobuy/main/mhs-autobuy.meta.js
+// @downloadURL  https://raw.githubusercontent.com/y12rf/mhs-autobuy/main/mhs_autobuy.user.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
