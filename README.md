@@ -20,7 +20,7 @@
 2. 打开脚本链接并确认安装  
  
  ```
- https
+ https://raw.githubusercontent.com/y12rf/mhs-autobuy/refs/heads/main/mhs_autobuy.user.js
  ```
 3. 进入橱窗页面，右栏会出现「米画师助手」面板。
 
