@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         米画师自动购买橱窗脚本 beta
-// @namespace    http://tampermonkey.net/
+// @name         米画师自动购买橱窗脚本
+// @namespace    https://github.com/y12rf/mhs-autobuy
 // @version      1.9.3
 // @description  自动购买米画师橱窗作品
 // @license      MIT
 // @author       和川 & ChatGPT‑Assist
 // @match        *://www.mihuashi.com/stalls/*
 // @updateURL    https://raw.githubusercontent.com/y12rf/mhs-autobuy/refs/heads/main/mhs-autobuy.meta.js
-// @downloadURL  https://github.com/y12rf/mhs-autobuy/raw/refs/heads/main/mhs-autobuy.user.js
+// @downloadURL  https://raw.githubusercontent.com/y12rf/mhs-autobuy/refs/heads/main/mhs_autobuy.user.js
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
