@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         米画师自动购买橱窗脚本
 // @namespace    https://github.com/y12rf/mhs-autobuy
-// @version      1.9.3
+// @version      1.9.4
 // @description  自动购买米画师橱窗作品
 // @license      MIT
 // @author       和川 & ChatGPT‑Assist
