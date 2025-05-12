@@ -1,4 +1,4 @@
-# 米画师自动购买橱窗脚本
+# 米画师自动购买橱窗
 ![MIT](https://img.shields.io/badge/license-MIT-blue) ![Tampermonkey](https://img.shields.io/badge/GM-Tampermonkey-brightgreen)
 
 ---
